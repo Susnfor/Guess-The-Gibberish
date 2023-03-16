@@ -6,21 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guess The Gibberish by susnfor</title>
     <link rel="stylesheet" type="text/css" href="/assets/incoherent.css" /> 
+    <!-- <script type="module" src="./assets/incoherent.js"></script> -->
 </head>
 <body>
     <section>
         <div class="maincontainer">
             <div class="itemscontainer">
-                <div class="repick">
-                    <button onclick="rePick()">Another Card</button>
-                </div>
-                <div class="homophone-card" data-homophone="bare" data-word="bear"></div>
+                <h1 id="currentMode">Click a Mode</h1>
                 <div class="changelvl">
-                    <button onclick="changeLvl()">Change Level</button>
+                    <button id="gibberbtn">Gibberish</button>
+                    <button id="onewordbtn">One Word</button>
+                    <button id="weirdbtn">Weird Sentences</button>
+                </div>
+                <div class="homophone-card" id="homophone-card" data-homophone="bare" data-word="bear"></div>
+                <div class="repick">
+                    <button id="anotherbtn">Another Card</button>
                 </div>
             </div>
         </div>
     </section>
-    <script src="./assets/incoherent.js"></script>
+    <script type="module" src="./assets/incoherent.js"></script>
+    
 </body>
 </html>
