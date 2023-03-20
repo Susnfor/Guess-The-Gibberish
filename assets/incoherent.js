@@ -20,6 +20,13 @@ document.getElementById("onewordbtn").addEventListener('click',changeOne);
 document.getElementById("weirdbtn").addEventListener('click',changeWeird);
 
 
+//for mobile
+document.getElementById("anotherbtn").addEventListener('touchstart',rePick);
+document.getElementById("gibberbtn").addEventListener('touchstart',changeGib);
+document.getElementById("onewordbtn").addEventListener('touchstart',changeOne);
+document.getElementById("weirdbtn").addEventListener('touchstart',changeWeird);
+
+
 //function to generate random number so a random pard is picked
 function randomNumber(min, max) {
     return Math.round(Math.random() * (max - min) + min);
