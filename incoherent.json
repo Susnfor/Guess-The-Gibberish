@@ -1,0 +1,604 @@
+{
+  "weird": [
+    {
+      "homophone": "Brrr-mint-nose",
+      "word": "bring me those"
+    },
+    {
+      "homophone": "Grin-chin-oaf-fuss",
+      "word": "green jeans off us"
+    },
+    {
+      "homophone": "Eye-gull-ink-thyme",
+      "word": "eagle in time"
+    },
+    {
+      "homophone": "Sky-hive-ink-tense",
+      "word": "skydiving tents"
+    },
+    {
+      "homophone": "Yew-nigh-form-wrist",
+      "word": "uniform wrist"
+    },
+    {
+      "homophone": "Hye-drool-ick-twent-ee",
+      "word": "hydraulic twenty"
+    },
+    {
+      "homophone": "Doe-nut-knee",
+      "word": "do not need"
+    },
+    {
+      "homophone": "Bough-urn-ate-her",
+      "word": "bow and arrow"
+    },
+    {
+      "homophone": "Sun-die-brews",
+      "word": "Sunday blues"
+    },
+    {
+      "homophone": "Thyme-lapse",
+      "word": "time lapse"
+    },
+    {
+      "homophone": "Gnome-antique",
+      "word": "known technique"
+    },
+    {
+      "homophone": "Rye-sin-sphere",
+      "word": "rising sphere"
+    },
+    {
+      "homophone": "Heir-o-win",
+      "word": "arrow in"
+    }
+  ],
+  "gibberish": [
+    {
+      "homophone": "Wohs eerier",
+      "word": "Who's here?"
+    },
+    {
+      "homophone": "Ii wos kleenoeut mikrowaiv",
+      "word": "I was cleaning out the microwave"
+    },
+    {
+      "homophone": "Pleez brang mie aij",
+      "word": "Please bring me egg"
+    },
+    {
+      "homophone": "Wohs eerier",
+      "word": "Who's here?"
+    },
+    {
+      "homophone": "Ow mai gau",
+      "word": "Oh my God"
+    },
+    {
+      "homophone": "Etz goen tu bie fune",
+      "word": "It's going to be fun"
+    },
+    {
+      "homophone": "Thae kant spel enie ting",
+      "word": "They can't spell anything"
+    },
+    {
+      "homophone": "Ei inkowrrij yoo",
+      "word": "I encourage you"
+    },
+    {
+      "homophone": "Ei kan sea it neow",
+      "word": "I can see it now"
+    },
+    {
+      "homophone": "Wot daz thee phox saie?",
+      "word": "What does the fox say"
+    },
+    {
+      "homophone": "Aie bee leef in yue",
+      "word": "I believe in you"
+    }
+  ],
+  "oneword": [
+    {
+      "word": "literally",
+      "homophone": "Lite-her-all-lee"
+    },
+    {
+      "word": "numerical",
+      "homophone": "Gnome-urr-riff-ick"
+    },
+    {
+      "word": "pajamas",
+      "homophone": "Pay-jam-as"
+    },
+    {
+      "word": "performance",
+      "homophone": "Purr-form-ants"
+    },
+    {
+      "word": "exactly",
+      "homophone": "Ex-ack-tor-lee"
+    },
+    {
+      "word": "attitude",
+      "homophone": "App-ti-tude"
+    },
+    {
+      "word": "photography",
+      "homophone": "Foe-tee-graff"
+    },
+    {
+      "word": "accurately",
+      "homophone": "A-kur-ate-lee"
+    },
+    {
+      "word": "illusionary",
+      "homophone": "Ill-yoo-shun-ary"
+    },
+    {
+      "word": "dictionary",
+      "homophone": "Dis-kyoo-shun-ary"
+    },
+    {
+      "word": "tranquility",
+      "homophone": "Trenk-will-itee"
+    },
+    {
+      "word": "intelligent",
+      "homophone": "In-tel-ij-ent"
+    },
+    {
+      "word": "missionary",
+      "homophone": "Mish-un-air-ee"
+    },
+    {
+      "word": "hypnotize",
+      "homophone": "Hip-not-tize"
+    },
+    {
+      "word": "imagine",
+      "homophone": "Ee-maj-in"
+    },
+    {
+      "word": "frustration",
+      "homophone": "Frust-ray-shun"
+    },
+    {
+      "word": "imaginary",
+      "homophone": "Im-maj-in-airy"
+    },
+    {
+      "word": "phantom",
+      "homophone": "Phant-uhm"
+    },
+    {
+      "word": "principal",
+      "homophone": "Prin-sip-ull"
+    },
+    {
+      "homophone": "Sigh-lents",
+      "word": "science"
+    },
+    {
+      "homophone": "Troo-bull",
+      "word": "trouble"
+    },
+    {
+      "homophone": "Chaynn-juss",
+      "word": "changeless"
+    },
+    {
+      "homophone": "Froo-see-shun",
+      "word": "frustration"
+    },
+    {
+      "homophone": "Mist-tour-eye",
+      "word": "mystery"
+    },
+    {
+      "homophone": "Carrot-tun",
+      "word": "cartoon"
+    },
+    {
+      "homophone": "Wreck-you'll-her",
+      "word": "regular"
+    },
+    {
+      "homophone": "Buy-oh-meat-tree",
+      "word": "biometry"
+    },
+    {
+      "homophone": "Cell-owe-tea",
+      "word": "celery"
+    },
+    {
+      "homophone": "High-stir-ache",
+      "word": "hysteric"
+    },
+    {
+      "homophone": "duck-tour",
+      "word": "doctor"
+    },
+    {
+      "homophone": "bay-lie",
+      "word": "believe"
+    },
+    {
+      "homophone": "seize-hiss-inn",
+      "word": "seasoning"
+    },
+    {
+      "homophone": "sigh-clone",
+      "word": "cyclone"
+    },
+    {
+      "homophone": "whiz-el",
+      "word": "whistle"
+    },
+    {
+      "homophone": "purr-tye",
+      "word": "party"
+    },
+    {
+      "homophone": "bay-urn-ate-her",
+      "word": "bayonetta"
+    },
+    {
+      "homophone": "pie-rite-tense",
+      "word": "pirate tents"
+    },
+    {
+      "homophone": "pore-tent-shoe-all",
+      "word": "potential"
+    },
+    {
+      "homophone": "moo-sick",
+      "word": "music"
+    },
+    {
+      "homophone": "paws-ible",
+      "word": "possible"
+    },
+    {
+      "homophone": "rye-te",
+      "word": "right"
+    },
+    {
+      "homophone": "toe-tilly",
+      "word": "totally"
+    },
+    {
+      "homophone": "mai-zen",
+      "word": "mason"
+    },
+    {
+      "homophone": "sow-er",
+      "word": "sewer"
+    },
+    {
+      "homophone": "heir-o-win",
+      "word": "heroin"
+    },
+    {
+      "homophone": "mai-oar",
+      "word": "mayor"
+    },
+    {
+      "homophone": "pare-ants",
+      "word": "parents"
+    },
+    {
+      "homophone": "a-cheat",
+      "word": "achieve"
+    },
+    {
+      "homophone": "pour-tent-chess",
+      "word": "portentous"
+    },
+    {
+      "homophone": "dye-alogue",
+      "word": "dialogue"
+    },
+    {
+      "homophone": "way-sted",
+      "word": "wasted"
+    },
+    {
+      "homophone": "fiend-ish",
+      "word": "fiendish"
+    },
+    {
+      "homophone": "wile-derness",
+      "word": "wilderness"
+    },
+    {
+      "homophone": "weigh-ver",
+      "word": "waiver"
+    },
+    {
+      "homophone": "wee-pun",
+      "word": "weapon"
+    },
+    {
+      "homophone": "mai-kuh",
+      "word": "maker"
+    },
+    {
+      "homophone": "ray-dish-un",
+      "word": "radiation"
+    },
+    {
+      "homophone": "crai-oal-uh-jee",
+      "word": "cryology"
+    },
+    {
+      "homophone": "car-rot-tun",
+      "word": "cartoon"
+    },
+    {
+      "homophone": "meh-koon-dish-un",
+      "word": "recognition"
+    },
+    {
+      "homophone": "wry-sin",
+      "word": "rising"
+    },
+    {
+      "homophone": "low-fee",
+      "word": "loafy"
+    },
+    {
+      "homophone": "hiss-tore-ree",
+      "word": "history"
+    },
+    {
+      "homophone": "bierd",
+      "word": "beard"
+    },
+    {
+      "homophone": "pur-tuh-tuh",
+      "word": "pretty"
+    },
+    {
+      "homophone": "bawl-dur",
+      "word": "boulder"
+    },
+    {
+      "homophone": "sight-doe",
+      "word": "sidle"
+    },
+    {
+      "homophone": "wei-un",
+      "word": "weigh-in"
+    },
+    {
+      "homophone": "mis-tick",
+      "word": "mystique"
+    },
+    {
+      "homophone": "fi-ur",
+      "word": "fewer"
+    },
+    {
+      "homophone": "sigh-lew-et",
+      "word": "silhouette"
+    },
+    {
+      "homophone": "corral",
+      "word": "coral"
+    },
+    {
+      "homophone": "duh-main",
+      "word": "domain"
+    },
+    {
+      "homophone": "au-bow",
+      "word": "eyebrow"
+    },
+    {
+      "homophone": "hum-oh-rus",
+      "word": "humorous"
+    },
+    {
+      "homophone": "goo-rill-uh",
+      "word": "gorilla"
+    },
+    {
+      "homophone": "mie-stick",
+      "word": "mystic"
+    },
+    {
+      "homophone": "muh-seen",
+      "word": "musing"
+    },
+    {
+      "homophone": "purr-oh-teen",
+      "word": "protein"
+    },
+    {
+      "homophone": "thoh-row",
+      "word": "thorough"
+    },
+    {
+      "homophone": "yew-thigh",
+      "word": "youthy"
+    },
+    {
+      "homophone": "plea-uh-tiff",
+      "word": "plaintiff"
+    },
+    {
+      "homophone": "tis-shoe",
+      "word": "tissue"
+    },
+    {
+      "homophone": "stare-e-o-type",
+      "word": "stereotype"
+    },
+    {
+      "homophone": "wee-rho",
+      "word": "weirdo"
+    },
+    {
+      "homophone": "yule-oh-gee",
+      "word": "urology"
+    },
+    {
+      "homophone": "vye-rus",
+      "word": "virus"
+    },
+    {
+      "homophone": "jie-ant",
+      "word": "giant"
+    },
+    {
+      "homophone": "gnu-sik",
+      "word": "nuisance"
+    },
+    {
+      "homophone": "huh-nuh-ree",
+      "word": "honorary"
+    },
+    {
+      "homophone": "hu-man",
+      "word": "human"
+    },
+    {
+      "homophone": "bar-urn",
+      "word": "baron"
+    },
+    {
+      "homophone": "baron",
+      "word": "barren"
+    },
+    {
+      "homophone": "navigation",
+      "word": "navigasion"
+    },
+    {
+      "homophone": "bureau",
+      "word": "burro"
+    },
+    {
+      "homophone": "forensic",
+      "word": "four ensick"
+    },
+    {
+      "homophone": "focus",
+      "word": "faux pas"
+    },
+    {
+      "homophone": "barbecue",
+      "word": "barbecued"
+    },
+    {
+      "homophone": "baloney",
+      "word": "bologna"
+    },
+    {
+      "homophone": "curiosity",
+      "word": "curious city"
+    },
+    {
+      "homophone": "crown",
+      "word": "crone"
+    },
+    {
+      "homophone": "bury",
+      "word": "berry"
+    },
+    {
+      "homophone": "enemy",
+      "word": "anemone"
+    },
+    {
+      "homophone": "therapeutic",
+      "word": "terrapin"
+    },
+    {
+      "homophone": "samurai",
+      "word": "samaria"
+    },
+    {
+      "homophone": "superb",
+      "word": "suburb"
+    },
+    {
+      "homophone": "maybe",
+      "word": "baby"
+    },
+    {
+      "homophone": "territory",
+      "word": "terrier tory"
+    },
+    {
+      "homophone": "violence",
+      "word": "violinist"
+    },
+    {
+      "homophone": "pharaoh",
+      "word": "farro"
+    },
+    {
+      "homophone": "yonder",
+      "word": "yawed her"
+    },
+    {
+      "homophone": "measure",
+      "word": "maser"
+    },
+    {
+      "homophone": "decision",
+      "word": "derision"
+    },
+    {
+      "homophone": "foliage",
+      "word": "foilage"
+    },
+    {
+      "homophone": "heroin",
+      "word": "heroine"
+    },
+    {
+      "homophone": "guinea",
+      "word": "ginny"
+    },
+    {
+      "homophone": "homo",
+      "word": "homeo"
+    },
+    {
+      "homophone": "gorilla",
+      "word": "guerrilla"
+    },
+    {
+      "homophone": "mosaic",
+      "word": "Moses' ache"
+    },
+    {
+      "homophone": "tableau",
+      "word": "tablo"
+    },
+    {
+      "homophone": "purple",
+      "word": "purpose"
+    },
+    {
+      "homophone": "water",
+      "word": "watt-er"
+    },
+    {
+      "homophone": "page",
+      "word": "paige"
+    },
+    {
+      "homophone": "furry",
+      "word": "fury"
+    },
+    {
+      "homophone": "theater",
+      "word": "theatre"
+    }
+  ]
+}
