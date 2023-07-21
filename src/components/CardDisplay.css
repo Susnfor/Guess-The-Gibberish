@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Orbitron&family=Permanent+Marker&family=Press+Start+2P&display=swap');
+
+.Card-container{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 35%;
+    height: 40%;
+}
+.Card-box{
+    font-family: 'Permanent Marker', cursive;
+    margin: 10px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #cfb284;
+    border: 2px solid #ffefcb;
+    color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 40px;
+}
+
+.Card-box:hover{
+    transform: scale(1.05);
+    background-color: #ffefcb;
+    color: #4c4c4c;
+    flex-direction: column;
+    border: 2px solid #cfb284;
+}
+
+.Card-box .Card-back{
+    display: none;
+
+}
+.Card-box:hover .Card-back{
+    display: contents;
+}
+
+.Card-box:hover .Card-front{
+    display: none;
+}
+
+
