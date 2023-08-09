@@ -97,6 +97,42 @@
     {
       "homophone": "Aie bee leef in yue",
       "word": "I believe in you"
+    },
+    {
+      "homophone": "Toad Lee a maze sing.",
+      "word": "Totally amazing."
+    },
+    {
+      "homophone": "Knight mare",
+      "word": "Nightmare."
+    },
+    {
+      "homophone": "Sail a meh",
+      "word": "Salami."
+    },
+    {
+      "homophone": "Eye phone knead it.",
+      "word": "iPhone needed."
+    },
+    {
+      "homophone": "Eye maid a miss steak.",
+      "word": "I made a mistake."
+    },
+    {
+      "homophone": "Dough nut bye.",
+      "word": "Do not buy."
+    },
+    {
+      "homophone": "Eye bough a doe nut.",
+      "word": "I bought a doughnut."
+    },
+    {
+      "homophone": "Yew knead two sea it.",
+      "word": "You need to see it."
+    },
+    {
+      "homophone": "Eight fore the hay bill.",
+      "word": "Ate for the table."
     }
   ],
   "oneword": [
@@ -469,72 +505,52 @@
       "word": "baron"
     },
     {
-      "homophone": "baron",
-      "word": "barren"
+      "homophone": "barren",
+      "word": "baron"
     },
     {
-      "homophone": "navigation",
-      "word": "navigasion"
+      "homophone": "navigasion",
+      "word": "navigation"
     },
     {
-      "homophone": "bureau",
-      "word": "burro"
+      "homophone": "burro",
+      "word": "bureau"
     },
     {
-      "homophone": "forensic",
-      "word": "four ensick"
+      "homophone": "four ensick",
+      "word": "forensic"
     },
     {
-      "homophone": "focus",
-      "word": "faux pas"
+      "homophone": "faux pas",
+      "word": "focus"
     },
     {
-      "homophone": "barbecue",
-      "word": "barbecued"
+      "homophone": "curious city",
+      "word": "curiosity"
     },
     {
-      "homophone": "baloney",
-      "word": "bologna"
-    },
-    {
-      "homophone": "curiosity",
-      "word": "curious city"
-    },
-    {
-      "homophone": "crown",
-      "word": "crone"
+      "homophone": "crone",
+      "word": "crown"
     },
     {
       "homophone": "bury",
       "word": "berry"
     },
     {
-      "homophone": "enemy",
-      "word": "anemone"
+      "homophone": "anemone",
+      "word": "enemy"
     },
     {
-      "homophone": "therapeutic",
-      "word": "terrapin"
+      "homophone":"terrapi",
+      "word": "therapy"
     },
     {
-      "homophone": "samurai",
-      "word": "samaria"
+      "homophone": "samaria",
+      "word": "samurai"
     },
     {
-      "homophone": "superb",
-      "word": "suburb"
-    },
-    {
-      "homophone": "maybe",
-      "word": "baby"
-    },
-    {
-      "homophone": "territory",
-      "word": "terrier tory"
-    },
-    {
-      "homophone": "violinist",
-      "word": "violence"
+      "homophone": "terrier tory",
+      "word": "territory"
     },
     {
       "homophone": "farro",
@@ -553,20 +569,8 @@
       "word": "decision"
     },
     {
-      "homophone": "foliage",
-      "word": "foilage"
-    },
-    {
-      "homophone": "heroin",
-      "word": "heroine"
-    },
-    {
       "homophone": "ginny",
       "word": "guinea" 
-    },
-    {
-      "homophone": "homo",
-      "word": "homeo"
     },
     {
       "homophone": "guerrilla",
@@ -578,27 +582,11 @@
     },
     {
       "homophone": "tableau",
-      "word": "tablo"
+      "word": "table"
     },
     {
-      "homophone": "purple",
-      "word": "purpose"
-    },
-    {
-      "homophone": "watt-er",
+      "homophone": "whatt-er",
       "word": "water"
-    },
-    {
-      "homophone": "page",
-      "word": "paige"
-    },
-    {
-      "homophone": "furry",
-      "word": "fury"
-    },
-    {
-      "homophone": "theater",
-      "word": "theatre"
     }
   ]
 }
